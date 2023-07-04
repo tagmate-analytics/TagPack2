@@ -4,7 +4,7 @@ import FirebaseAnalytics
 
 
 
-class TagPack2{
+public class TagPack2{
     
     var optionalValue: String!
     var bundleId: String!
