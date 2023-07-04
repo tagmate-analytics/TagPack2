@@ -15,7 +15,7 @@ class TagPack2{
     }
 
     
-    static func configure(){
+    public static func configure(){
         print("Firebase will initialize here....")
         FirebaseApp.configure()
     
